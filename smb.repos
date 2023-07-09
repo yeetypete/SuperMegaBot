@@ -1,7 +1,7 @@
 repositories:
   core:
     type: git
-    url: https://github.com/ETHZ-RobotX/smb_common.git
+    url: https://github.com/evelyd/smb_common.git
     version: master
   hardware/robosense_simulator:
     type: git
@@ -33,7 +33,7 @@ repositories:
     version: master
   planning/smb_mission_planner:
     type: git
-    url: https://github.com/ETHZ-RobotX/smb_mission_planner.git
+    url: https://github.com/wueestry/smb_mission_planner.git
     version: master
   planning/smb_path_planner:
     type: git
