@@ -37,7 +37,7 @@ repositories:
     version: master
   planning/smb_path_planner:
     type: git
-    url: https://github.com/ETHZ-RobotX/smb_path_planner.git
+    url: https://github.com/wueestry/smb_path_planner.git
     version: master
   planning/teb_local_planner:
     type: git
